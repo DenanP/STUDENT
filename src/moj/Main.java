@@ -32,5 +32,6 @@ class Main {
       MojStudent = new Student(ime, prezime, fax, dan, mjesec, godina);
 
       MojStudent.WriteStudent();
+      //Izmjena
     }
 }
